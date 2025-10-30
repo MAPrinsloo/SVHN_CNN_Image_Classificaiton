@@ -1,0 +1,123 @@
+Evaluating images in directory: test_sharpening_2_1_1
+--------------------------------------------------
+Image: test_sharpening_2_1_1/train/2/GOOD_2_image_442.png
+Blur: 731.7367196442286, Is Blurry: True
+Contrast: 41.4027075225332, Has Low Contrast: False
+Brightness: 139.8639987244898, Is Overly Bright/Dark: False
+Compression Score (SSIM): 0.9817624424687635, Has Compression Artifacts: False
+--------------------------------------------------
+Image: test_sharpening_2_1_1/train/2/BAD_2_image_453.png
+Blur: 15.039269469172593, Is Blurry: True
+Contrast: 28.646836146058295, Has Low Contrast: False
+Brightness: 59.94927853954081, Is Overly Bright/Dark: False
+Compression Score (SSIM): 0.9786514564611428, Has Compression Artifacts: False
+--------------------------------------------------
+Image: test_sharpening_2_1_1/train/0/BAD_0_image_802.png
+Blur: 78.77041980752047, Is Blurry: True
+Contrast: 30.728209829916903, Has Low Contrast: False
+Brightness: 212.57742745535714, Is Overly Bright/Dark: True
+Compression Score (SSIM): 0.9819038831598047, Has Compression Artifacts: False
+--------------------------------------------------
+Image: test_sharpening_2_1_1/train/0/GOOD_0_image_541.png
+Blur: 370.970626647524, Is Blurry: True
+Contrast: 29.70747195067604, Has Low Contrast: False
+Brightness: 128.6400071747449, Is Overly Bright/Dark: False
+Compression Score (SSIM): 0.9828590620237795, Has Compression Artifacts: False
+--------------------------------------------------
+Image: test_sharpening_2_1_1/train/8/GOOD_8_image_845.png
+Blur: 6277.409899897497, Is Blurry: True
+Contrast: 64.80238550273205, Has Low Contrast: False
+Brightness: 90.80094068877551, Is Overly Bright/Dark: False
+Compression Score (SSIM): 0.973454926206888, Has Compression Artifacts: False
+--------------------------------------------------
+Image: test_sharpening_2_1_1/train/8/BAD_8_image_5048.png
+Blur: 2.8282938636823878, Is Blurry: True
+Contrast: 16.608451306421514, Has Low Contrast: True
+Brightness: 67.71490353954081, Is Overly Bright/Dark: False
+Compression Score (SSIM): 0.9814811870172578, Has Compression Artifacts: False
+--------------------------------------------------
+Image: test_sharpening_2_1_1/train/6/BAD_6_image_598.png
+Blur: 92.38364281459731, Is Blurry: True
+Contrast: 48.295481514626466, Has Low Contrast: False
+Brightness: 93.88588169642857, Is Overly Bright/Dark: False
+Compression Score (SSIM): 0.9758319309679936, Has Compression Artifacts: False
+--------------------------------------------------
+Image: test_sharpening_2_1_1/train/6/GOOD_6_image_539.png
+Blur: 1116.3902709143501, Is Blurry: True
+Contrast: 47.360365087947706, Has Low Contrast: False
+Brightness: 198.52453364158163, Is Overly Bright/Dark: False
+Compression Score (SSIM): 0.9814365300844026, Has Compression Artifacts: False
+--------------------------------------------------
+Image: test_sharpening_2_1_1/train/3/GOOD_3_image_606.png
+Blur: 284.23536178895404, Is Blurry: True
+Contrast: 41.269761429379116, Has Low Contrast: False
+Brightness: 114.17877072704081, Is Overly Bright/Dark: False
+Compression Score (SSIM): 0.9748772500532544, Has Compression Artifacts: False
+--------------------------------------------------
+Image: test_sharpening_2_1_1/train/3/BAD_3_image_210.png
+Blur: 9.57440782633487, Is Blurry: True
+Contrast: 24.350472184437645, Has Low Contrast: False
+Brightness: 91.40626992984694, Is Overly Bright/Dark: False
+Compression Score (SSIM): 0.9792323540149223, Has Compression Artifacts: False
+--------------------------------------------------
+Image: test_sharpening_2_1_1/train/5/GOOD_5_image_226.png
+Blur: 445.5375647322182, Is Blurry: True
+Contrast: 35.401688833405906, Has Low Contrast: False
+Brightness: 86.5210259885204, Is Overly Bright/Dark: False
+Compression Score (SSIM): 0.9764097627601783, Has Compression Artifacts: False
+--------------------------------------------------
+Image: test_sharpening_2_1_1/train/5/BAD_5_image_796.png
+Blur: 2.6928482095135697, Is Blurry: True
+Contrast: 13.758467325881945, Has Low Contrast: True
+Brightness: 74.00753348214286, Is Overly Bright/Dark: False
+Compression Score (SSIM): 0.9769200429937741, Has Compression Artifacts: False
+--------------------------------------------------
+Image: test_sharpening_2_1_1/train/9/GOOD_9_image_22751.png
+Blur: 221.05702291732527, Is Blurry: True
+Contrast: 28.73598900735947, Has Low Contrast: False
+Brightness: 82.75456393494898, Is Overly Bright/Dark: False
+Compression Score (SSIM): 0.9777086127180158, Has Compression Artifacts: False
+--------------------------------------------------
+Image: test_sharpening_2_1_1/train/9/BAD_9_image_2198.png
+Blur: 4.064083916179739, Is Blurry: True
+Contrast: 19.367824832869424, Has Low Contrast: False
+Brightness: 168.4299465880102, Is Overly Bright/Dark: False
+Compression Score (SSIM): 0.9844745944038977, Has Compression Artifacts: False
+--------------------------------------------------
+Image: test_sharpening_2_1_1/train/7/GOOD_7_image_530530.png
+Blur: 7814.996803162521, Is Blurry: True
+Contrast: 75.3893175380154, Has Low Contrast: False
+Brightness: 130.2930285395408, Is Overly Bright/Dark: False
+Compression Score (SSIM): 0.9732737589663495, Has Compression Artifacts: False
+--------------------------------------------------
+Image: test_sharpening_2_1_1/train/7/BAD_7_image_2152.png
+Blur: 1.8977685012404297, Is Blurry: True
+Contrast: 15.486351445592845, Has Low Contrast: True
+Brightness: 55.049386160714285, Is Overly Bright/Dark: False
+Compression Score (SSIM): 0.9786865795649491, Has Compression Artifacts: False
+--------------------------------------------------
+Image: test_sharpening_2_1_1/train/1/BAD_1_image_577.png
+Blur: 4.208236948543168, Is Blurry: True
+Contrast: 15.493832275359912, Has Low Contrast: True
+Brightness: 48.591677295918366, Is Overly Bright/Dark: True
+Compression Score (SSIM): 0.9797828968042812, Has Compression Artifacts: False
+--------------------------------------------------
+Image: test_sharpening_2_1_1/train/1/GOOD_1_image_2493.png
+Blur: 919.4794941858072, Is Blurry: True
+Contrast: 52.82663986026499, Has Low Contrast: False
+Brightness: 155.5457389987245, Is Overly Bright/Dark: False
+Compression Score (SSIM): 0.9812251735921769, Has Compression Artifacts: False
+--------------------------------------------------
+Image: test_sharpening_2_1_1/train/4/GOOD_4_image_704.png
+Blur: 3952.8654174573317, Is Blurry: True
+Contrast: 73.90136170839423, Has Low Contrast: False
+Brightness: 107.44136639030613, Is Overly Bright/Dark: False
+Compression Score (SSIM): 0.9741592014952745, Has Compression Artifacts: False
+--------------------------------------------------
+Image: test_sharpening_2_1_1/train/4/BAD_4_image_198.png
+Blur: 2.543747691798339, Is Blurry: True
+Contrast: 24.7098177105642, Has Low Contrast: False
+Brightness: 49.628786670918366, Is Overly Bright/Dark: True
+Compression Score (SSIM): 0.9804884669426209, Has Compression Artifacts: False
+--------------------------------------------------
+==================================================
